@@ -1,0 +1,3 @@
+# bling
+
+Lightweight jQuery library
